@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "installedAt": "2026-07-17T10:07:50.163Z",
+  "files": {
+    ".openspec-shipper/codex/prompts/archive.md": {
+      "sourceHash": "967066b9adaea00f6cf6dcdf8b55cb85e7a0310294cd22e88dca34186a5db217",
+      "targetHash": "967066b9adaea00f6cf6dcdf8b55cb85e7a0310294cd22e88dca34186a5db217"
+    },
+    ".openspec-shipper/codex/prompts/cleanup-worktree.md": {
+      "sourceHash": "4d14b877346ba13ee4c257a869eeddf23bc1982d38ee86d86db33abbc8309078",
+      "targetHash": "4d14b877346ba13ee4c257a869eeddf23bc1982d38ee86d86db33abbc8309078"
+    },
+    ".openspec-shipper/codex/prompts/implement.md": {
+      "sourceHash": "e2672eeed40dd386de1e6cab829031360d7f0ecd9a1f1bc74457be0c0cc62016",
+      "targetHash": "e2672eeed40dd386de1e6cab829031360d7f0ecd9a1f1bc74457be0c0cc62016"
+    },
+    ".openspec-shipper/codex/prompts/push.md": {
+      "sourceHash": "11c1a22564c3ff73771c7f0d170e8a4c632950907cca849f7a438665edf60fa3",
+      "targetHash": "11c1a22564c3ff73771c7f0d170e8a4c632950907cca849f7a438665edf60fa3"
+    },
+    ".openspec-shipper/codex/prompts/sync-main.md": {
+      "sourceHash": "3e57d66bb16fb3fc9c5db13d99332a03b52b900afb9ae17d72c9867e4ebb955b",
+      "targetHash": "3e57d66bb16fb3fc9c5db13d99332a03b52b900afb9ae17d72c9867e4ebb955b"
+    },
+    ".openspec-shipper/codex/workflow.md": {
+      "sourceHash": "558c4290e7e2154b6585dc41d466be5a3a5c8c4b8e027bfb192eea0da938766d",
+      "targetHash": "558c4290e7e2154b6585dc41d466be5a3a5c8c4b8e027bfb192eea0da938766d"
+    },
+    ".github/workflows/open-pr-on-branch-push.yml": {
+      "sourceHash": "774b0c8332417f4b6fa68eee149f3ffde5e41c4a94e0ecd5d4ef63e7db00e34e",
+      "targetHash": "774b0c8332417f4b6fa68eee149f3ffde5e41c4a94e0ecd5d4ef63e7db00e34e"
+    },
+    ".openspec-shipper/README.md": {
+      "sourceHash": "6fe26c327626773b2c899338572d6994481a09be3136a94f49d0720b9910d624",
+      "targetHash": "6fe26c327626773b2c899338572d6994481a09be3136a94f49d0720b9910d624"
+    },
+    ".openspec-shipper/openspec-config.example.yaml": {
+      "sourceHash": "535feb541fe0f11b978f4d2f21a30d3bbf0cc3f17324d040d70ad25da6f826e1",
+      "targetHash": "535feb541fe0f11b978f4d2f21a30d3bbf0cc3f17324d040d70ad25da6f826e1"
+    },
+    ".openspec-shipper/scripts/validate-branch-name.mjs": {
+      "sourceHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3",
+      "targetHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3"
+    },
+    ".openspec-shipper/scripts/validate-openspec-proposal.mjs": {
+      "sourceHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a",
+      "targetHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a"
+    },
+    ".openspec-shipper/config.json": {
+      "sourceHash": "985aecc61c9274014c8e280ae2efa42e3e378370b45b4da3897ae97983151475",
+      "targetHash": "985aecc61c9274014c8e280ae2efa42e3e378370b45b4da3897ae97983151475"
+    },
+    ".openspec-shipper/.env.example": {
+      "sourceHash": "c277ff275e5d796edb50cdddcd55aceb1e056c100e89b8cc047e527e92b91b10",
+      "targetHash": "c277ff275e5d796edb50cdddcd55aceb1e056c100e89b8cc047e527e92b91b10"
+    },
+    ".openspec-shipper/queue.example.md": {
+      "sourceHash": "5d5eb02e499f35780d3369241559a80c69272141046492882b54a8b46974a7b0",
+      "targetHash": "5d5eb02e499f35780d3369241559a80c69272141046492882b54a8b46974a7b0"
+    }
+  }
+}
