@@ -1,7 +1,13 @@
-export function greeting() {
-  return "Hello, world!";
+export function greeting(name) {
+  const trimmedName = name?.trim();
+
+  if (!trimmedName) {
+    return "Hello, world!";
+  }
+
+  return `Hello, ${trimmedName}!`;
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-  console.log(greeting());
+  console.log(greeting(process.argv[2]));
 }
